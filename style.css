@@ -1,0 +1,24 @@
+table{
+    border-color: aquamarine;
+}
+li{
+    color: red;
+}
+li.library{
+    color: black;
+}
+#abc{
+    color: blue;
+}
+#xyz{
+    color: seagreen;
+}
+h2{
+    color: blue;
+}
+table,th,td{
+    color: brown;
+}
+img{
+    width: 200px;
+}
